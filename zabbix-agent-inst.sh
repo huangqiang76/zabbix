@@ -1,8 +1,8 @@
 #!/bin/bash
-#author:huangq
-#create:2017/03/09
-#modify author:huangqiang76
-#modify date:2018/10/23
+#author:
+#create:
+#modify author:
+#modify date:
 #
 
 #==== ============== ================== ============= #
